@@ -11,7 +11,7 @@ import com.google.android.youtube.player.YouTubePlayerView
 class MainActivity : YouTubeBaseActivity() {
 
     val VIDEO_ID = "xKN4kCeln7Q"
-    val YOUTUBE_API_KEY = "AIzaSyCztt8VaKIJEhtPO_0MghKDmtY26HXm-Vo"
+    val YOUTUBE_API_KEY = "AIzaSyDrYHXEFj5F5UQU1Os3wAWmwaJys8oocDM"
 
     private lateinit var youtubePlayer: YouTubePlayerView
     private lateinit var btnPlay: Button
